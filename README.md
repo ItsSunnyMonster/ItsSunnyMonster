@@ -6,6 +6,8 @@ maybe I'll update it when I have time and ideas
 
 oh wait this is a repository doesn't this mean I can add *anything* here?? as long as the readme is correct?
 
+oh yeah btw the repositories you see below? the only one that I haven't abandoned is smve and it's only slightly dormant because of the aforementioned maths exam
+
 <!--
 **ItsSunnyMonster/ItsSunnyMonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
