@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+yeah my creative juice is very much running out after hectically revising for a maths exam so I *really* don't know what to write here...
+
+maybe I'll update it when I have time and ideas
+
+oh wait this is a repository doesn't this mean I can add *anything* here?? as long as the readme is correct?
+
 <!--
 **ItsSunnyMonster/ItsSunnyMonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
