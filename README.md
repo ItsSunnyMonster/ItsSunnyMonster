@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-yeah my creative juice is very much running out after hectically revising for a maths exam so I *really* don't know what to write here...
+Hello everyone, I'm Sunny and welcome to my corner of Github!
 
-maybe I'll update it when I have time and ideas
+Unfortunately I am the master of unfinished projects as you can see from the sheer amount of archives I have.
+Some of the non-archived repos I have are also a bit stagnant. Unfortunately that just comes with the fact that
+I keep alternating between having loads of time and having no time at all.
 
-oh wait this is a repository doesn't this mean I can add *anything* here?? as long as the readme is correct?
+So I will try and make some complete projects maybe so that this page isn't this devoid of life.
 
-oh yeah btw the repositories you see below? the only one that I haven't abandoned is smve and it's only slightly dormant because of the aforementioned maths exam
-
-if you wish contact me on discord **itssunnymonster**, just please don't spam me ty
+And I will also keep this page somewhat simple until I actually have something to show for myself.
 
 <!--
 **ItsSunnyMonster/ItsSunnyMonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
