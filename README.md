@@ -2,13 +2,8 @@
 
 Hello everyone, I'm Sunny and welcome to my corner of Github!
 
-Unfortunately I am the master of unfinished projects as you can see from the sheer amount of archives I have.
-Some of the non-archived repos I have are also a bit stagnant. Unfortunately that just comes with the fact that
-I keep alternating between having loads of time and having no time at all.
-
-So I will try and make some complete projects maybe so that this page isn't this devoid of life.
-
-And I will also keep this page somewhat simple until I actually have something to show for myself.
+Most of my active development has now moved to [Codeberg](https://codeberg.org/SunnyMonster). Please check there for anything new I'm doing.
+Github will now only have projects that I'm too lazy to migrate over, or anything I absolutely need to use Github for (for example to deploy my personal site to Netlify. That mirror is private though.)
 
 <!--
 **ItsSunnyMonster/ItsSunnyMonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
