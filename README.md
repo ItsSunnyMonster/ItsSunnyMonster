@@ -1,26 +1,45 @@
-## Hi there 👋
+[![Banner](https://github.com/ItsSunnyMonster/ItsSunnyMonster/blob/master/banner.png)](https://www.sunnymonster.dev)
 
-Hello everyone, I'm Sunny and welcome to my corner of Github!
+hi everyone, i'm sunny and welcome to my corner of github!
 
-Unfortunately I am the master of unfinished projects as you can see from the sheer amount of archives I have.
-Some of the non-archived repos I have are also a bit stagnant. Unfortunately that just comes with the fact that
-I keep alternating between having loads of time and having no time at all.
+i work with these somewhat regularly:
 
-So I will try and make some complete projects maybe so that this page isn't this devoid of life.
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,bevy,html,css,js,ts,tailwind,nextjs,nodejs,powershell,java,apple,linux,neovim,idea" />
+  </a>
 
-And I will also keep this page somewhat simple until I actually have something to show for myself.
+i used to work with these regularly:
 
-<!--
-**ItsSunnyMonster/ItsSunnyMonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,c,cs,cpp,eclipse,godot,kotlin,unity" />
+  </a>
 
-Here are some ideas to get you started:
+and of course, there are way too many more things i've used/learned at some point. here's what i want to explore in the not so far (or very far) future:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nix,go,zig" />
+  </a>
+
+  <br/>
+  <br/>
+
+<picture>
+    <source
+        srcset="https://github-readme.sunnymonster.dev/api?username=ItsSunnyMonster&theme=catppuccin_mocha&show_icons=true&border_radius=10&hide_border=true&bg_color=181825"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme.sunnymonster.dev/api?username=ItsSunnyMonster&theme=catppuccin_latte&show_icons=true&border_radius=10&hide_border=true&bg_color=e6e9ef"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme.sunnymonster.dev/api?username=ItsSunnyMonster&theme=catppuccin_latte&show_icons=true&border_radius=10&hide_border=true&bg_color=e6e9ef" />
+</picture>
+
+<br/>
+<br/>
+
+(i cannot include a card for top languages unfortunately due to the sheer amount of unity projects i have archived on this account
+containing loads of C# and ShaderLab code that i never wrote. i will slowly move all those to an old account of mine, so that this
+account contains a more accurate representation of the kind of code i *currently* write.)
+
+thank you for visiting :3
