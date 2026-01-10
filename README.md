@@ -25,31 +25,31 @@ and of course, there are way too many more things i've used/learned at some poin
 
 <picture>
     <source
-        srcset="https://github-readme.sunnymonster.dev/api/top-langs?username=ItsSunnyMonster&theme=catppuccin_mocha&border_radius=10&hide_border=true&bg_color=181825&layout=donut&langs_count=10&exclude_repo=glad,dotfiles,PRIVATE-sunnymonster.dev.archive"
+        srcset="https://github-readme.sunnymonster.dev/api/top-langs?username=ItsSunnyMonster&theme=catppuccin_mocha&border_radius=10&hide_border=true&bg_color=181825&title_color=f5c2e7&layout=donut&langs_count=10&exclude_repo=glad,dotfiles,PRIVATE-sunnymonster.dev.archive"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme.sunnymonster.dev/api/top-langs?username=ItsSunnyMonster&theme=catppuccin_latte&border_radius=10&hide_border=true&bg_color=e6e9ef&layout=donut&langs_count=10&exclude_repo=glad,dotfiles,PRIVATE-sunnymonster.dev.archive"
+        srcset="https://github-readme.sunnymonster.dev/api/top-langs?username=ItsSunnyMonster&theme=catppuccin_latte&border_radius=10&hide_border=true&bg_color=e6e9ef&title_color=ea76cb&layout=donut&langs_count=10&exclude_repo=glad,dotfiles,PRIVATE-sunnymonster.dev.archive"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme.sunnymonster.dev/api/top-langs?username=ItsSunnyMonster&theme=catppuccin_latte&border_radius=10&hide_border=true&bg_color=e6e9ef&layout=donut&langs_count=10&exclude_repo=glad,dotfiles,PRIVATE-sunnymonster.dev.archive" />
+    <img src="https://github-readme.sunnymonster.dev/api/top-langs?username=ItsSunnyMonster&theme=catppuccin_latte&border_radius=10&hide_border=true&bg_color=e6e9ef&title_color=ea76cb&layout=donut&langs_count=10&exclude_repo=glad,dotfiles,PRIVATE-sunnymonster.dev.archive" />
 </picture>
 
 <br/>
 
 <picture>
     <source
-        srcset="https://github-readme.sunnymonster.dev/api?username=ItsSunnyMonster&theme=catppuccin_mocha&show_icons=true&border_radius=10&hide_border=true&bg_color=181825"
+        srcset="https://github-readme.sunnymonster.dev/api?username=ItsSunnyMonster&theme=catppuccin_mocha&show_icons=true&border_radius=10&hide_border=true&bg_color=181825&title_color=f5c2e7"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme.sunnymonster.dev/api?username=ItsSunnyMonster&theme=catppuccin_latte&show_icons=true&border_radius=10&hide_border=true&bg_color=e6e9ef"
+        srcset="https://github-readme.sunnymonster.dev/api?username=ItsSunnyMonster&theme=catppuccin_latte&show_icons=true&border_radius=10&hide_border=true&bg_color=e6e9ef&title_color=ea76cb"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme.sunnymonster.dev/api?username=ItsSunnyMonster&theme=catppuccin_latte&show_icons=true&border_radius=10&hide_border=true&bg_color=e6e9ef" />
+    <img src="https://github-readme.sunnymonster.dev/api?username=ItsSunnyMonster&theme=catppuccin_latte&show_icons=true&border_radius=10&hide_border=true&bg_color=e6e9ef&title_color=ea76cb" />
 </picture>
 
 <br/>
 <br/>
 
-**thank you for visiting ❤️**
+**thank you for visiting 🩷**
