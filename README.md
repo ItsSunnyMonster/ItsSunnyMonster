@@ -1,4 +1,4 @@
-[![Banner](banner.png)](https://www.sunnymonster.dev)
+[![Banner](banner-rounded.png)](https://www.sunnymonster.dev)
 
 hi everyone, i'm sunny and welcome to my corner of github!
 
