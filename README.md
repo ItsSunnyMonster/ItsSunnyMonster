@@ -1,6 +1,6 @@
 [![Banner](banner-rounded.png)](https://www.sunnymonster.dev)
 
-hi everyone, i'm sunny and welcome to my corner of github!
+hi everyone, i'm avery and welcome to my corner of github!
 
 i work with these somewhat regularly:
 
